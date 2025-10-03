@@ -1,0 +1,8 @@
+/Users/tspann/Downloads/code/cursorai/SnowflakeToKafkaCDC/src/main/java/com/snowflake/kafka/producer/OptimizedKafkaProducer.java
+/Users/tspann/Downloads/code/cursorai/SnowflakeToKafkaCDC/src/main/java/com/snowflake/kafka/security/KafkaSecurityConfig.java
+/Users/tspann/Downloads/code/cursorai/SnowflakeToKafkaCDC/src/main/java/com/snowflake/kafka/config/AppConfig.java
+/Users/tspann/Downloads/code/cursorai/SnowflakeToKafkaCDC/src/main/java/com/snowflake/kafka/model/StreamRecord.java
+/Users/tspann/Downloads/code/cursorai/SnowflakeToKafkaCDC/src/main/java/com/snowflake/kafka/metrics/MetricsCollector.java
+/Users/tspann/Downloads/code/cursorai/SnowflakeToKafkaCDC/src/main/java/com/snowflake/kafka/stream/SnowflakeStreamReader.java
+/Users/tspann/Downloads/code/cursorai/SnowflakeToKafkaCDC/src/main/java/com/snowflake/kafka/security/SnowflakeKeyPairAuth.java
+/Users/tspann/Downloads/code/cursorai/SnowflakeToKafkaCDC/src/main/java/com/snowflake/kafka/SnowflakeKafkaStreamer.java

@@ -1,0 +1,41 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] --------------< com.snowflake.kafka:snowflake-kafka-cdc >---------------
+[INFO] Building Snowflake to Kafka CDC Streaming 1.0.0
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] >>> dependency:3.7.0:analyze (default-cli) > test-compile @ snowflake-kafka-cdc >>>
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ snowflake-kafka-cdc ---
+[INFO] Copying 1 resource from src/main/resources to target/classes
+[INFO] 
+[INFO] --- compiler:3.11.0:compile (default-compile) @ snowflake-kafka-cdc ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- resources:3.3.1:testResources (default-testResources) @ snowflake-kafka-cdc ---
+[INFO] skip non existing resourceDirectory /Users/tspann/Downloads/code/cursorai/SnowflakeToKafkaCDC/src/test/resources
+[INFO] 
+[INFO] --- compiler:3.11.0:testCompile (default-testCompile) @ snowflake-kafka-cdc ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] <<< dependency:3.7.0:analyze (default-cli) < test-compile @ snowflake-kafka-cdc <<<
+[INFO] 
+[INFO] 
+[INFO] --- dependency:3.7.0:analyze (default-cli) @ snowflake-kafka-cdc ---
+[WARNING] Used undeclared dependencies found:
+[WARNING]    org.junit.jupiter:junit-jupiter-api:jar:5.10.1:test
+[WARNING]    com.fasterxml.jackson.core:jackson-annotations:jar:2.16.0:compile
+[WARNING]    org.testcontainers:testcontainers:jar:1.19.3:test
+[WARNING] Unused declared dependencies found:
+[WARNING]    net.snowflake:snowflake-jdbc:jar:3.14.4:compile
+[WARNING]    org.apache.commons:commons-pool2:jar:2.12.0:compile
+[WARNING]    ch.qos.logback:logback-classic:jar:1.4.14:compile
+[WARNING]    org.junit.jupiter:junit-jupiter:jar:5.10.1:test
+[WARNING]    org.mockito:mockito-core:jar:5.8.0:test
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  0.551 s
+[INFO] Finished at: 2025-10-03T16:54:35-04:00
+[INFO] ------------------------------------------------------------------------
